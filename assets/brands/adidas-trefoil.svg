@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 92" role="img" aria-labelledby="title">
+  <title id="title">Adidas Trefoil</title>
+  <defs>
+    <mask id="trefoil-cut">
+      <rect width="120" height="92" fill="white"/>
+      <path d="M12 55h96M17 66h86M25 77h70" stroke="black" stroke-width="6"/>
+    </mask>
+  </defs>
+  <g fill="#ffffff" mask="url(#trefoil-cut)">
+    <path d="M57 64C39 60 20 48 11 27 9 22 8 16 8 10c21 3 40 19 49 43z"/>
+    <path d="M63 64c18-4 37-16 46-37 2-5 3-11 3-17-21 3-40 19-49 43z"/>
+    <path d="M60 58C46 43 44 24 60 4c16 20 14 39 0 54z"/>
+    <path d="M25 83h70l-5 7H30z"/>
+  </g>
+</svg>
