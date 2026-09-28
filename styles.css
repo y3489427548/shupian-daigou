@@ -118,6 +118,8 @@ footer{padding-top:48px;padding-bottom:48px;background:#f7f7f8;color:#6e6e73}foo
 .brand-custom{background:#7650a8;color:#fff}
 .brand-card .brand-label{color:inherit;font-weight:750}
 .brand-adidas>img,.brand-nike>img{filter:none}
+.brand-adidas>img{width:92px;height:70px}
+.brand-north>img{width:120px;height:62px}
 .brand-lululemon>img{filter:none}
 .north-icon img{filter:brightness(0) invert(1)}
 .generic-brand-icon{color:inherit}
